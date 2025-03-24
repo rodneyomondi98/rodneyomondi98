@@ -8,8 +8,8 @@ I am **deaf and proud**! 🚀 A passionate **computer enthusiast** continuously 
 
 ## 🔧 Technologies & Skills
 
-- **IT & Support**: Computer Maintenance & Support
-- **Software & Tools**: AutoCAD, Desktop Publishing, QuickBooks, Microsoft Office
+- **IT & Support**: Computer Maintenance & Support, Windows, Linux
+- **Software & Tools**: AutoCAD, Desktop Publishing, QuickBooks, Microsoft Office, Git
 - **Languages**: HTML, CSS, JavaScript, C, Python, MySQL
 - **Certifications**: 
   - **Cisco**: CCST, CCNA, CyberOps, Data Analyst, Network Security
