@@ -1,4 +1,4 @@
-# 👋 Hi, I’m _Rodney Omondi Okoth_! 🖥️
+# 👋 Hi, I’m Rodney Omondi Okoth! 🖥️
 
 **Deaf and Proud** | Computer Enthusiast | Lifelong Learner
 
