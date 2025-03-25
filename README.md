@@ -49,7 +49,7 @@ Here’s what I bring to the table:
 <a href="https://linkedin.com/in/rodneyomondi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodneyomondi98" height="30" width="40" /></a>
 <a href="https://fb.com/rodney.omondi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodney.omondi98" height="30" width="40" /></a>
 <a href="https://instagram.com/rodney.omondi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodney.omondi98" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@rodney_omondi98" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="rodney_omondi98" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@rodney.omondi98" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" alt="rodney.omondi98" height="30" width="40" /></a>
 </p>
 
 ---
